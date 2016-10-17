@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'lol_Example' do
+  pod 'lol', :path => '../'
+
+  target 'lol_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
