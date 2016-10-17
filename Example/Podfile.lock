@@ -1,0 +1,16 @@
+PODS:
+  - lol (0.1.0)
+
+DEPENDENCIES:
+  - lol (from `../`)
+
+EXTERNAL SOURCES:
+  lol:
+    :path: ../
+
+SPEC CHECKSUMS:
+  lol: b66c7e32966426034e2b29731cfc453e7b1e76e3
+
+PODFILE CHECKSUM: 93d733d829d44a8987fb908b1d9bf209c00fd6a5
+
+COCOAPODS: 1.1.0.beta.2

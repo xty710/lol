@@ -1,0 +1,6 @@
+framework module lol {
+  umbrella header "lol-umbrella.h"
+
+  export *
+  module * { export * }
+}
